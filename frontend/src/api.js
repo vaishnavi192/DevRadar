@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://devtrace-9fbcb4f08238.herokuapp.com";
 
 export async function analyzeProduct(product) {
   const response = await fetch(`${API_URL}/api/analyze`, {
