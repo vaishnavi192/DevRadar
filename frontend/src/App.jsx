@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import ResearchTerminal from "./components/ResearchTerminal";
+import ResearchTerminal from "./Components/ResearchTerminal";
 import { analyzeProduct} from "./api";
 
 function ProblemsGraphic() {
