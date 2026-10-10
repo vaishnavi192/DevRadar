@@ -14,7 +14,7 @@ Surface relevant adoption opportunities, competitive gaps, and potential distrib
 Identify potential content gaps and video opportunities relevant to developers and the product's target audience.
 
 DevRadar collects developer signals through SerpApi (Google Search, Youtube), GitHub, and enriches them with google trend data, and processes the results through normalization, deduplication, filtering, and TF-IDF-based clustering. The resulting evidence is organized into clusters of developer problems and content gaps, then passed to Google Gemini for cross-source synthesis and GTM recommendations covering product positioning, content strategy, and acquisition.
-<img width="1389" height="1132" alt="image" src="https://github.com/user-attachments/assets/9ed92213-e5ce-49ea-8390-ac635cda91a7" />
+<img width="1389" height="1132" alt="image" src="https://github.com/user-attachments/assets/60c36659-12a2-4a77-afb0-7f11c87ab75c" />
 
 ## Demo of the product
 
