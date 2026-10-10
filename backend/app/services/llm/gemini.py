@@ -9,7 +9,7 @@ from app.models.trend_signal import TrendSignal
 from app.services.llm.prompt import build_research_synthesis_prompt
 
 
-MODEL_NAME = "gemini-3.5-flash"
+MODEL_NAME = "gemini-3.5-flash-lite"
 
 
 def synthesize_research(
